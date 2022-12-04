@@ -1,0 +1,10 @@
+,mse,r2
+Regresión lineal,4828491830.809354,0.6392222594813981
+Regresión polinomial grado 2,4729432861.946554,0.646618761361792
+Regresión polinomial grado 3,9.12553496329735e+24,-682138817634840.6
+Regresión lineal escalando estándar,4828400407.779986,0.6392291114622345
+Regresión polinomial grado 2 escalado estándar,4356120580.059767,0.6745179342845811
+Regresión polinomial grado 3 escalado estándar,4102256647.357496,0.6934812050836994
+Regresion lineal escalado robusto,4829000281.736524,0.6391841979872049
+Regresión polinomial grado 2 escalado robusto,4720387447.24052,0.6472969025258377
+Regresión polinomial grado 3 escalado robusto,7.906270291763346e+24,-591179770025505.9
